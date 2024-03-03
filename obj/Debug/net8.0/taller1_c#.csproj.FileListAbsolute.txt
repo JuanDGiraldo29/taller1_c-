@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\taller1_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\taller1_c#.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\taller1_c#.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\taller1_c#.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\bin\Debug\net8.0\taller1_c#.exe
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\bin\Debug\net8.0\taller1_c#.deps.json
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\bin\Debug\net8.0\taller1_c#.runtimeconfig.json
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\bin\Debug\net8.0\taller1_c#.dll
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\bin\Debug\net8.0\taller1_c#.pdb
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\taller1_c#.dll
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\refint\taller1_c#.dll
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\taller1_c#.pdb
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\taller1_c#.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Proyectos VisualCode\taller1_c#\obj\Debug\net8.0\ref\taller1_c#.dll
